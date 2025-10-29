@@ -13,7 +13,7 @@
 - **Tech Stack:** React 18, Node.js, MySQL, Docker, TypeScript
 - **Features:** Secure contact form, email notifications, GDPR compliance
 - **Highlights:** Data encryption, rate limiting, responsive design
-- **Status:** ✅ Production ready
+- **Status:** ✅ Production ready: https://szwagrzak.pl
 
 ### [Relaksownia - Massage Website](https://github.com/Arczi89/relaksownia)
 
@@ -27,7 +27,7 @@
 - **Tech Stack:** Angular, TypeScript, SCSS, HTML
 - **Features:** Reusable component library, base template for new projects
 - **Highlights:** Latest Angular techniques, modular architecture
-- **Status:** 🔄 In development (10% progress)
+- **Status:** 🔄 In development (10% progress) https://demo.szwagrzak.pl
 
 ## 🛠️ Skills
 
