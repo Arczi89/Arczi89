@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Full Stack Developer
 
-**Technologies:** React, Angular, Node.js, TypeScript, Java, Kotlin, Django, MySQL
+**Technologies:** React, Angular, Spring Boot, TypeScript, Java, Kotlin, Django, MySQL, PostgreSQL, MongoDB
 
 **Experience:** 10+ years in commercial software development
 
