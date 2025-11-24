@@ -29,6 +29,14 @@
 - **Highlights:** Latest Angular techniques, modular architecture
 - **Status:** 🔄 In development (10% progress) https://demo.szwagrzak.pl
 
+### bgpack - Board Game Geek aggregator
+
+- **Tech Stack:** Java Spring Boot, React.js, TypeScript, SCSS, HTML, JavaScript
+- **Features:** Sorting, filtering and save aggregated board games list base on BGG usernames and parameters
+- **Highlights:** Spring Boot backend, React.js frontend
+- **Status:** 🔄 In development (60% progress) 
+
+
 ## 🛠️ Skills
 
 **Frontend:** React, Angular, TypeScript, HTML5, CSS3, SCSS, Tailwind CSS, Component Libraries
